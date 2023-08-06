@@ -1,0 +1,11 @@
+C:\Users\zulia\Desktop\C#\Projekte\Note-Taking App\Note-Taking App\bin\Debug\Note-Taking App.exe.config
+C:\Users\zulia\Desktop\C#\Projekte\Note-Taking App\Note-Taking App\bin\Debug\Note-Taking App.exe
+C:\Users\zulia\Desktop\C#\Projekte\Note-Taking App\Note-Taking App\bin\Debug\Note-Taking App.pdb
+C:\Users\zulia\Desktop\C#\Projekte\Note-Taking App\Note-Taking App\obj\Debug\Note-Taking App.csproj.AssemblyReference.cache
+C:\Users\zulia\Desktop\C#\Projekte\Note-Taking App\Note-Taking App\obj\Debug\Note-Taking App.csproj.SuggestedBindingRedirects.cache
+C:\Users\zulia\Desktop\C#\Projekte\Note-Taking App\Note-Taking App\obj\Debug\Note_Taking_App.Form1.resources
+C:\Users\zulia\Desktop\C#\Projekte\Note-Taking App\Note-Taking App\obj\Debug\Note_Taking_App.Properties.Resources.resources
+C:\Users\zulia\Desktop\C#\Projekte\Note-Taking App\Note-Taking App\obj\Debug\Note-Taking App.csproj.GenerateResource.cache
+C:\Users\zulia\Desktop\C#\Projekte\Note-Taking App\Note-Taking App\obj\Debug\Note-Taking App.csproj.CoreCompileInputs.cache
+C:\Users\zulia\Desktop\C#\Projekte\Note-Taking App\Note-Taking App\obj\Debug\Note-Taking App.exe
+C:\Users\zulia\Desktop\C#\Projekte\Note-Taking App\Note-Taking App\obj\Debug\Note-Taking App.pdb
